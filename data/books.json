@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "pages": 464,
+    "image": "https://m.media-amazon.com/images/I/51E2055ZGUL._SL1000_.jpg"
+  },
+  {
+    "title": "Essential Math for AI",
+    "author": "Hala Nelson",
+    "pages": 1035,
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSaEGJJTYSlWdEIlcAem7qB3WTHrfIvCkVbSR2JoL9jpvXi1dqj"
+  },
+  {
+    "title": "Tour of C++",
+    "author": "Bjarne Stroustrup",
+    "pages": 320,
+    "image": "https://m.media-amazon.com/images/I/71rBs8GVR+L._SL1500_.jpg"
+  }
+]
